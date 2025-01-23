@@ -12,7 +12,7 @@ if(isProd) {
   } catch (e) {
     throw new Error(`Vite manifest.json not found. Have you run 'yarn run build'?`)
   }
-}```
+}
 
 ### Linkovi
 [Wikipedija](https://hr.wikipedia.org/wiki/Glavna_stranica)
