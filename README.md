@@ -36,8 +36,8 @@ Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jeda
 [x]Linkati README.md i LICENSE.md (obostrano)
 [x] Napraviti popis (numerički i ne-numerički)
 [x] Izraditi kratku tablicu s informacijama o projektu
-[] Napraviti commit promjena s odgovarajućom porukom
-[] Otvoriti pull request unutar vlastitog repozitorija
+[ ] Napraviti commit promjena s odgovarajućom porukom
+[ ] Otvoriti pull request unutar vlastitog repozitorija
 [x] Dodati LICENSE.md datoteku s MIT licencom
 [x] Aktivirati GitHub Pages za repozitorij
 
