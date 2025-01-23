@@ -24,6 +24,8 @@ Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jeda
 | Student          | Luka Gobin        |
 | Datum            | 23.1.2025.        |
 
+[LICENSE](https://github.com/Luka137/atp-kolokvij/blob/main/LICENSE.md)
+
 ```const isProd = process.env.NODE_ENV === 'production'
 let manifest
 
