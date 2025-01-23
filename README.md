@@ -12,3 +12,14 @@ if(isProd) {
     throw new Error(`Vite manifest.json not found. Have you run 'yarn run build'?`)
   }
 }```
+[Wikipedija](https://hr.wikipedia.org/wiki/Glavna_stranica)
+[Pexels](https://www.pexels.com/search/ronaldo/)
+[Gists](https://gist.github.com/discover)
+1. Dodavanje H1
+2. Dodavanje H2
+3. Dodavanje teksta
+4. Dodavanje slike
+- Dodavanje koda
+- Dodavanje linkova
+- Dodavanje numeriranih popisa
+- Dodavanje ne-numeriranih popisa
