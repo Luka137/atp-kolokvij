@@ -33,7 +33,7 @@ Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jeda
 - [x] Dodati sliku – preuzeti s Unsplash ili Pexels
 - [x] Dodati primjer koda – preuzeti s Gists
 - [x] Dodati link na izvor slike i teksta
-- [x]Linkati README.md i LICENSE.md (obostrano)
+- [x] Linkati README.md i LICENSE.md (obostrano)
 - [x] Napraviti popis (numerički i ne-numerički)
 - [x] Izraditi kratku tablicu s informacijama o projektu
 - [ ] Napraviti commit promjena s odgovarajućom porukom
