@@ -16,6 +16,14 @@ Dalí je u povijesti zapamćen po svojim snažnim i bizarnim slikama te kao jeda
 - Dodavanje numeriranih popisa
 - Dodavanje ne-numeriranih popisa
 
+### Informacije o projektu
+
+| Naziv projekta   | ATP Kolokvij      |
+|------------------|-------------------|
+| Pokušaj          | 1.                |
+| Student          | Luka Gobin        |
+| Datum            | 23.1.2025.        |
+
 ```const isProd = process.env.NODE_ENV === 'production'
 let manifest
 
